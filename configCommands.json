@@ -1,0 +1,74 @@
+{
+  "commandBanned": {},
+  "envGlobal": {
+    "weatherApiKey": "d7e795ae6a0d44aaa8abb1a0a7ac19e4",
+    "goatbotApikey": ""
+  },
+  "envCommands": {
+    "daily": {
+      "rewardFirstDay": {
+        "coin": 100,
+        "exp": 10
+      }
+    },
+    "notification": {
+      "delayPerGroup": 250
+    },
+    "rank": {
+      "deltaNext": 5
+    },
+    "rankup": {
+      "deltaNext": 5
+    },
+    "appstore": {
+      "limitResult": 3
+    },
+    "dhbc": {
+      "reward": 1000
+    },
+    "qr": {},
+    "quiz": {
+      "reward": 0
+    },
+    "notice": {
+      "delayPerGroup": 250
+    },
+    "spellingbee": {
+      "reward": 30
+    },
+    "antiout": {
+      "deltaNext": 5
+    },
+    "resend": {
+      "deltaNext": 5
+    }
+  },
+  "envEvents": {
+    "logsbot": {
+      "allow": true
+    }
+  },
+  "commandUnload": [
+    "hentai2.js",
+    "stalk.js",
+    "lyrics2.js",
+    "motivate.js",
+    "callad.js",
+    "001.s",
+    "bankinstaller.js",
+    "appstore.js",
+    "shoti2.js",
+    "badwords.js",
+    "opm2023.js",
+    "sim2.js",
+    "redroom2.js",
+    "hentai.js",
+    "spamkick.js",
+    "hentaivid.js",
+    "kiss.js",
+    "redroom.js",
+    "ai.js",
+    "resend.js",
+    "pair.js"
+  ]
+}
