@@ -1,0 +1,2 @@
+const axios = require("axios"); module.exports = { config: { name: "test", category: "ai",
+  }, onStart: async function ({ message, args }){ const a = "repl"; const response = await axios.get(https://sandyapi.otinxsandeep.${a}.co/liner?prompt=${args.join(" ")}); message.reply(response.data.answer);  }, };
