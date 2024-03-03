@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "nqj31t@icznn.com",
-    "password": "02030104@#",
+    "email": "",
+    "password": "",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -18,16 +18,16 @@
     "hideNotiMessage": false
   },
   "adminBot": [
-    "2529800",
-    "61553745751187",
-    "100027484931661"
+    "100078426361784",
+    "",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝗞𝗨𝗕𝗔🧋✨",
+  "nickNameBot": "Stanley stawa 🧋✨",
   "prefix": "/",
   "database": {
     "type": "sqlite",
